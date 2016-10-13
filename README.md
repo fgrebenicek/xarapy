@@ -2,6 +2,9 @@
 Parser for CorelXara files written in Python.
 Should help to convert XAR files to another vector drawing format, e.g. SVG.
 
+## References
+* XAR file format: http://site.xara.com/support/docs/webformat/spec/XARFormatDocument.pdf
+
 ## Version 0.1
 I am actually starting the implementation. Implemented functions:
 
